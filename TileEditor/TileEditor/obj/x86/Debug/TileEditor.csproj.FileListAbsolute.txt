@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\bin\Debug\TileEditor.exe
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\bin\Debug\TileEditor.pdb
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\obj\x86\Debug\TileEditor.Form1.resources
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\obj\x86\Debug\TileEditor.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\obj\x86\Debug\TileEditor.exe
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\obj\x86\Debug\TileEditor.pdb
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\obj\x86\Debug\TileEditor.ToolWindow.resources
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\obj\x86\Debug\TileEditor.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\TileEditor\TileEditor\obj\x86\Debug\TileEditor.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\CharacterEditor\CharacterEditor\bin\Debug\CharacterEditor.exe
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\CharacterEditor\CharacterEditor\bin\Debug\CharacterEditor.pdb
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\CharacterEditor\CharacterEditor\obj\x86\Debug\CharacterEditor.Form1.resources
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\CharacterEditor\CharacterEditor\obj\x86\Debug\CharacterEditor.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\CharacterEditor\CharacterEditor\obj\x86\Debug\CharacterEditor.exe
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\CharacterEditor\CharacterEditor\obj\x86\Debug\CharacterEditor.pdb
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\CharacterEditor\CharacterEditor\obj\x86\Debug\CharacterEditor.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\CharacterEditor\CharacterEditor\obj\x86\Debug\CharacterEditor.csproj.GenerateResource.Cache

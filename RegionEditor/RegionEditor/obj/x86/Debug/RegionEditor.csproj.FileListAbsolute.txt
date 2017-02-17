@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\bin\Debug\RegionEditor.exe
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\bin\Debug\RegionEditor.pdb
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\obj\x86\Debug\RegionEditor.Form1.resources
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\obj\x86\Debug\RegionEditor.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\obj\x86\Debug\RegionEditor.exe
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\obj\x86\Debug\RegionEditor.pdb
+C:\Users\Gabriel\Documents\Full Sail University (First Classes)\WTP\RegionEditor\RegionEditor\obj\x86\Debug\RegionEditor.ToolWindow.resources
